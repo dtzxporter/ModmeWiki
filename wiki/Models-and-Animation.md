@@ -1,0 +1,1 @@
+A set of tutorials regarding animating and models for games, not specifically for Call of duty. Posts will be listed as "Title [game] (software)".

@@ -1,0 +1,1 @@
+Documentation on how to use Modme's Kunai Install Creator, see below for game specific information!
