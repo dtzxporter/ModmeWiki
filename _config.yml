@@ -3,11 +3,11 @@ title: Modme Wiki
 description: An open-source community driven modding wiki
 show_downloads: false
 show_wiki_pages: true
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 15
 paginate: 5
 paginate_path: "/blog/page:num"
-blog_feature: true
-show_wiki_posts: true
+blog_feature: false
+show_wiki_posts: false
 show_wiki_posts_limit: 5
 logo_url: https://dtzxporter.github.io/ModmeWiki/assets/images/logo_scale.svg
 google_analytics:
