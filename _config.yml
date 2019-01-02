@@ -14,7 +14,7 @@ google_analytics:
 git_branch: master
 theme: 
 use_github_wiki: false
-use_prose_io: true
+use_prose_io: false
 search_engine : "js"
 google_cse_token: 007197903287787072094:8rbvkeqo6qw
 wiki_folder : "wiki"
@@ -83,7 +83,6 @@ inc_before_tail :
 inc_after_tail : 
 inc_before_tools : 
 inc_after_tools : 
-
 inc_before_page_list : "drassil/sidebar.html"
 inc_after_page_list :
 inc_before_post_list :
