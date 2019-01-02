@@ -9,7 +9,7 @@ paginate_path: "/blog/page:num"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: http://drassil.github.io/git-wiki/assets/images/logo_scale.svg
+logo_url: https://dtzxporter.github.io/ModmeWiki/assets/images/logo_scale.svg
 google_analytics:
 git_branch: master
 theme: 
