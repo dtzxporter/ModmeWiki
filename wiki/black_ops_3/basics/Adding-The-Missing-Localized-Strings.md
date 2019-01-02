@@ -12,5 +12,5 @@ The strings for things that were missing before - eg when you held the rocket sh
 
 If you find any still not working, contact me and I will add them
 
-  *Contributors*
+_Contributors:_
   - Harry Bo21

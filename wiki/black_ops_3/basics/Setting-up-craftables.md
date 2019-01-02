@@ -1,4 +1,6 @@
-  *Setting up a buildtable:**
+# Setting Up Craftables
+
+*Setting up a buildtable:*
 
 First download the buildtable prefab [here](https://mega.nz/#!VFR2UbqL!OTXZB2DDO0VoUNeIplapGwVnIfJMZEv43-rX_j4a0-8).
 
@@ -8,7 +10,7 @@ Feel free to change the geometry/model for it, just keep the trigger aligned.
 
 You can place as many of them as you like without modification.
 
-  *Setting up the rocket shield:**
+*Setting up the rocket shield:*
 
 First download the spawner prefab [here](https://mega.nz/#!ZYh0zYIS!DSxcXxZc9g5coDs8zPTet9mHEZoIOyP6kwpG1fqSM20).
 
@@ -25,7 +27,7 @@ Place all of them in `BlackOps3Root/map_source/_prefabs/`. You can place as many
 
 Also, you can change the model tag on the part to change the shield's look if you like.
 
-  *More buildables still to come!**
+*More buildables still to come!*
 - Apothicon Servant
 - Other Shield Varients
 - Ragnarok
@@ -34,6 +36,6 @@ Also, you can change the model tag on the part to change the shield's look if yo
 
 ---
 
-//**Contributors:**//
-DTZxPorter
-Harry Bo21
+_Contributors:_
+- DTZxPorter
+- Harry Bo21

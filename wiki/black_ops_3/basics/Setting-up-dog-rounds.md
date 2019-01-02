@@ -1,3 +1,5 @@
+# Setting Up Dog Rounds
+
 First download the aleady made prefabs here:
 
  - Actor prefab: [download](https://mega.nz/#!tEonwRZC!B1qVg_cyicT0GZqv20qW4Dmut-0Fq4C_gUnvYTJOEzQ)
@@ -11,6 +13,6 @@ You can now rebuild the map and run dog rounds!
 
 --- 
 
-//**Contributors**//
-DTZxPorter
-Harry Bo21
+_Contributors:_
+- DTZxPorter
+- Harry Bo21
