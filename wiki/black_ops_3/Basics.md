@@ -4,11 +4,11 @@ If it's your first time modding, the tools can be a little intimidating at first
 
 **Zombies Fundamentals: _essential for ZM maps_**
 
-- [black_ops_3/basics/setup_perks]()
-- [[black_ops_3/basics/setup_mystery_box]]
-- [[black_ops_3/basics/setup_zones]]
-- [[black_ops_3/basics/setup_power_switch]]
-- [[black_ops_3/basics/setup_traps]]
+- [Setup Perks](black_ops_3/basics/setup_perks)
+- [Setup Mysterybox](black_ops_3/basics/setup_mystery_box)
+- [Setup Zones](black_ops_3/basics/setup_zones)
+- [Setup Powerswitch](black_ops_3/basics/setup_power_switch)
+- [Setup Trap](black_ops_3/basics/setup_traps)
 
 ---
 

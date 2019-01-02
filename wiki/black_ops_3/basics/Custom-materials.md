@@ -1,6 +1,6 @@
 # Custom Materials
 
-> Black Ops 3 modtools use the TIFF (or PNG) image format. Most image editors include this format (Paint.net, Photoshop, Gimp all include it for example). If yours doesn't, find a plugin for it, or use one of the aforementioned image editors. [Kronos](http://aviacreations.com/modme/forum/topic.php?tid=179) also has a built-in image converter which converts most formats, including IWI (from previous CoD games), to TIFF.
+> **NOTE:** Black Ops 3 modtools use the TIFF (or PNG) image format. Most image editors include this format (Paint.net, Photoshop, Gimp all include it for example). If yours doesn't, find a plugin for it, or use one of the aforementioned image editors. [Kronos](http://aviacreations.com/modme/forum/topic.php?tid=179) also has a built-in image converter which converts most formats, including IWI (from previous CoD games), to TIFF.
 
 *Create file*
 
@@ -61,7 +61,7 @@ In Radiant, in the Texture Browser, look for the material name (i.e. mine was mt
 
 {F58}
 
-(NOTE) More advanced information on specific material types can be found in the provided documentation in `bo3\docs_modtools`.
+> **NOTE:** More advanced information on specific material types can be found in the provided documentation in `bo3\docs_modtools`.
 
 --- 
 

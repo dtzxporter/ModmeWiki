@@ -1,4 +1,6 @@
-  *Setting up in Radiant**
+# Setting Up A Proper Power Switch
+
+*Setting up in Radiant**
 
 Download the prefabs and extract to root/map_source ([PREFABS](https://mega.nz/#!8dMykIJC!gmNnRB4_y8VdVBu7fxamGjIp5WoSDW8vvrtVjsCa8zk)).
 
@@ -35,6 +37,6 @@ Then recompile and test your map.
 
 ---
 
-//**Contributors**//
-Harry Bo21
-DTZxPorter
+_Contributors:_
+- Harry Bo21
+- DTZxPorter
