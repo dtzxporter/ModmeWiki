@@ -70,7 +70,7 @@ inc_after_content:
 inc_before_footer :
 inc_after_footer : 
 inc_before_head : 
-inc_after_head : "drassil/head.html"
+inc_after_head : "modme/head.html"
 inc_before_meta :
 inc_after_meta : 
 inc_before_scripts : 
@@ -83,7 +83,7 @@ inc_before_tail :
 inc_after_tail : 
 inc_before_tools : 
 inc_after_tools : 
-inc_before_page_list : "drassil/sidebar.html"
+inc_before_page_list : "modme/sidebar.html"
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
