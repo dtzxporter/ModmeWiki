@@ -1,4 +1,4 @@
-#After months of agony, Black Ops 3 finally has public development tools!=
+# After months of agony, Black Ops 3 finally has public development tools!
 
 At first they can be a little intimidating for new modders, but fear not - Modme will be creating a comprehensive wiki full of tutorials and guides for your viewing pleasure, to assist all of you with your projects. Fresh blood will get all the starting information they need, while experienced and advanced modders will be contributing their own knowledge and methods too.
 
