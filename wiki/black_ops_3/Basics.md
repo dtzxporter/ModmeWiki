@@ -13,8 +13,10 @@ If it's your first time modding, the tools can be a little intimidating at first
 
 <ul>
   {% for post in site.pages %}
+    {% if image.path contains 'wiki/black_ops_3/basics' %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
