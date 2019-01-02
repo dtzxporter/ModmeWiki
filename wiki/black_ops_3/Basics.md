@@ -9,4 +9,12 @@ If it's your first time modding, the tools can be a little intimidating at first
 
 ---
 
-!!See the Document Hierarchy below to explore.!!
+`See the Document Hierarchy below to explore.`
+
+<ul>
+  {% for post in site.pages %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
