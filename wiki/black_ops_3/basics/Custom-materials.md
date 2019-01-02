@@ -1,6 +1,8 @@
-(NOTE) Black Ops 3 modtools use the TIFF image format. Most image editors include this format (Paint.net, Photoshop, Gimp all include it for example). If yours doesn't, find a plugin for it, or use one of the aforementioned image editors. [Kronos](http://aviacreations.com/modme/forum/topic.php?tid=179) also has a built-in image converter which converts most formats, including IWI (from previous CoD games), to TIFF.
+# Custom Materials
 
-  *Create file**
+> Black Ops 3 modtools use the TIFF (or PNG) image format. Most image editors include this format (Paint.net, Photoshop, Gimp all include it for example). If yours doesn't, find a plugin for it, or use one of the aforementioned image editors. [Kronos](http://aviacreations.com/modme/forum/topic.php?tid=179) also has a built-in image converter which converts most formats, including IWI (from previous CoD games), to TIFF.
+
+*Create file*
 
 If you don't already have a custom GDT, make one with "New GDT" in APE. I've named mine `custom_t7`. (This is because Treyarch's updates to the tools can overwrite any changes you make to the GDTs already provided.)
 
@@ -12,7 +14,7 @@ Click `New Asset` next to the GDT button. Give it a name, select type `material`
 
 NOTE: The image dimensions must be in a power of 2.
 
-  *Material Settings**
+  *Material Settings*
 
  - Give your material the appropriate settings for the texture you're making. Almost all common materials will use the material type `lit`. Here are my settings:
 
@@ -43,7 +45,7 @@ NOTE: The image dimensions must be in a power of 2.
 
 You can ignore the Asset Tags, Enemy Material and FrameBuffer Operations sections for almost everything.
 
-  *Color map, normal map, etc.**
+  *Color map, normal map, etc.*
 The color map is the actual color texture you want. Click this button to add a new image to your material:
 
 {F56}
@@ -51,7 +53,7 @@ The color map is the actual color texture you want. Click this button to add a n
 Click the three dots next to the Texture box and a dialog will pop up. Select the image you want to use. You probably don't need to tweak any settings, but do so if you need to.
 Repeat this for the normal map. You can quickly generate normal maps for your images at: [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/).
 
-  *Save and use**
+  *Save and use*
 
 Click  `Save All`. 
 
@@ -63,6 +65,6 @@ In Radiant, in the Texture Browser, look for the material name (i.e. mine was mt
 
 --- 
 
-//**Contributors:**//
-Koan
-DTZxPorter
+_Contributors:_
+- Koan
+- DTZxPorter
