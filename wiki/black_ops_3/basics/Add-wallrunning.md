@@ -1,22 +1,24 @@
-  *Setting up the area in radiant:**
+# Add Wallrunning
 
-    # First, map a wall where you want the player to run on. It must be a solid surface.
-    # Next, place another brush on the strip you want the player to run on. This brush must be a `trigger_multiple`. //Note: your brush must be thick enough to hold the player to properly register.//
-    # Next set the `targetname` KVP on the brush to `wallrun_trigger`
-    # Next, open your mapname.gsc in `usermaps/mapname/scripts/zm`
-    # In the main function add the following:
+ _Setting up the area in radiant:_
+
+- First, map a wall where you want the player to run on. It must be a solid surface.
+- Next, place another brush on the strip you want the player to run on. This brush must be a `trigger_multiple`. _Note: your brush must be thick enough to hold the player to properly register._
+- Next set the `targetname` KVP on the brush to `wallrun_trigger`
+- Next, open your mapname.gsc in `usermaps/mapname/scripts/zm`
+- In the main function add the following:
 
 
-lang=php
-//Wallrunning
+``` php
+// Wallrunning
 SetDvar( "wallrun_enabled", 1 );
-//Enable segments
+// Enable segments
 level thread setup_wallrun();
-
+```
 
 Then add these three functions outside your main:
 
-lang=php
+``` php
 function setup_wallrun()
 {
 	players = GetPlayers();
@@ -59,12 +61,12 @@ function enable_wallrun(trig)
 	self.iswallrunning = false;
 	self AllowWallRun(false);
 }
-
+```
 
 Save and close, rebuild the map. You can now use wallrunning.
 
 ---
 
-//**Contributors:**//
-DTZxPorter
-RDV
+_Contributors:_
+- DTZxPorter
+- RDV

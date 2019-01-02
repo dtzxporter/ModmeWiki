@@ -1,16 +1,12 @@
-# Adding the Missing Localized Strings
+# Adding The Missing Localized Strings
 
 Download: [Everything You Need](https://mega.nz/#!wNE3yRAI!tbLGCshXuuqV3Hyfa8BCDKTCSIpXL5vicb8WXhdpyE8)
 
-  *Instructions*
+*Instructions*
+- Download the files and extract them into your root directory ( Root directory is your Black Ops 3 install )
+- Add this line to your zone `localize,zombie`
 
-    - Download the files and extract them into your root directory ( Root directory is your Black Ops 3 install )
-
-    - Add this line to your zone
-
-`localize,zombie`
-
-  *You are DONE*
+*You are DONE*
 
 The strings for things that were missing before - eg when you held the rocket shield it would say ZOMBIE_ROCKET_HINT ( Can tell its a localized as will be in ALL CAPS and prob start with ZOMBIE_ ) should now be correct
 
