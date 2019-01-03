@@ -1,11 +1,12 @@
+# Common Sound Aliases (ZM)
+
 This is a collection of already loaded sound aliases that are in-game and ready to be used with your mod, if you see an alias here, you don't need to include it in your mod.
 
-//**Contributors:**//
-DTZxPorter (Ripping)
-ZeRoY (Sorting)
+_Contributors:_
+- DTZxPorter (Ripping)
+- ZeRoY (Sorting)
 
-
-
+```
 amb_rattle_barrel
 amb_rattle_bottles
 amb_rattle_car_alarm
@@ -6677,3 +6678,4 @@ zmb_weap_wall
 zmb_whoosh
 zmb_zombie_head_gib
 zmb_zombie_spawn
+```

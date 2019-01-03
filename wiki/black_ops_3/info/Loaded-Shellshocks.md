@@ -1,10 +1,12 @@
+# Loaded Shellshocks
+
 Below is a list of shellshocks loaded in the ffs for Black Ops 3
 
-Some of them are loaded in MP, ZM or CP only, so if they dont seem to work, the one you chose may not be loaded in your current game mode
+> **NOTE:** Some of them are loaded in MP, ZM or CP only, so if they dont seem to work, the one you chose may not be loaded in your current game mode
 
 Use them with the following functions ( Found in the API provided with the mod tools )
 
-
+```
 <player> ShellShock(<shellshockname>,<duration>,[allowReduceShellShockPerk])
 [MANDATORY] <shellshockname>
 [MANDATORY] <duration> duration in seconds. The duration must be between 0 and 60 seconds.
@@ -19,9 +21,9 @@ CATEGORY:
 CLIENT/SERVER: Server
 SUMMARY: Stops the shell shock sequence for the player
 EXAMPLE: player StopShellShock()
+```
 
-
-
+```
 concussion_grenade_mp
 damage_mp
 dog_bite
@@ -55,3 +57,4 @@ shellshock,grief_stab_zm
 pain_zm
 shellshock,zombie_death
 electrocution
+```

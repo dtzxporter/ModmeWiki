@@ -1,10 +1,12 @@
+# Common FX (ZM)
+
 This is a collection of already loaded FX files that are in-game and ready to be used with your mod, if you see an FX here, you don't need to include it in your mod.
 
-//**Contributors:**//
-DTZxPorter (Ripping)
-ZeRoY (Sorting)
+_Contributors:_
+- DTZxPorter (Ripping)
+- ZeRoY (Sorting)
 
-
+```
 _debug/fx_missing_fx
 _t6/bio/player/fx_footstep_dust
 _t6/bio/player/fx_footstep_mud
@@ -1154,3 +1156,4 @@ zombie/fx_widows_web_geotrail_zmb
 zombie/fx_widows_wrap_torso_os_zmb
 zombie/fx_widows_wrap_torso_zmb
 zombie/fx_wonder_fizz_lightning_all
+```
