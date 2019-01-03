@@ -10,8 +10,8 @@
 - Better error handling for mod compilation
 
 ## Beginners Guide
-- [[Download & Installation|black_ops_3/Lua (LUI)/Installation]] 
-- [[black_ops_3/Lua (LUI)/Introduction]] 
+- [Download & Installation]({{ '/wiki/black_ops_3/lua_(lui)/Installation.html' | relative_url }})
+- [Introduction]({{ '/wiki/black_ops_3/lua_(lui)/Introduction.html' | relative_url }})
 
 ## Requirements
 - [Call of Duty: Black Ops 3](http://store.steampowered.com/app/311210)
