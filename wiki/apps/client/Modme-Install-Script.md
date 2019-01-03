@@ -1,1 +1,0 @@
-Documentation for the //Modme Client Install// scripting language.

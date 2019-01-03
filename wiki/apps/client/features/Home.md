@@ -1,3 +1,0 @@
-The Home display in Modme displays information about the site and forums in an easy to browse fashion.
-{F2477}
-At the top, you'll see the latest announcement post made by one of our core staff. The title of the post can be clicked to bring you straight to the forum post to view the entire page. On the bottom half of the display is a list of recent forum activity, in order by date. Each of the link titles may be clicked to bring you to the latest post. In addition to title links, each user's modtag can be clicked to bring you straight to their profile pages.

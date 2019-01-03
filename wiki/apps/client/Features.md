@@ -1,1 +1,0 @@
-The Modme Client features a rich user experience that is both efficient and easy on the eyes. Each of the available displays has been documented below for an extensive overview of the clients main features.
