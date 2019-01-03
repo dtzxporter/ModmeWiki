@@ -7,15 +7,15 @@ At first they can be a little intimidating for new modders, but fear not - Modme
 Here are some quick links to get you started if you're new to the scene:
 
 **Zombies Fundamentals: _essential for zombiemode maps_**
-- [[black_ops_3/basics/setup_perks]]
-- [[black_ops_3/basics/setup_mystery_box]]
-- [[black_ops_3/basics/setup_zones]]
-- [[black_ops_3/basics/setup_power_switch]]
-- [[black_ops_3/basics/setup_traps]]
+- [Setup Perks]({{ '/wiki/black_ops_3/basics/Setting-up-perk-machines.html' | relative_url }})
+- [Setup Mysterybox]({{ '/wiki/black_ops_3/basics/Setting-up-mystery-box.html' | relative_url }})
+- [Setup Zones]({{ '/wiki/black_ops_3/basics/Setting-up-zones.html' | relative_url }})
+- [Setup Powerswitch]({{ '/wiki/black_ops_3/basics/Setting-up-a-proper-power-switch.html' | relative_url }})
+- [Setup Traps]({{ '/wiki/black_ops_3/basics/Setting-up-traps.html' | relative_url }})
 
 **Beginner Guides:**
-- [[black_ops_3/guides/scripting_guide]]
-- [[black_ops_3/guides/weapon_porting]]
+- [Scripting Guide]({{ '/wiki/black_ops_3/guides/Scripting-guide.html' | relative_url }})
+- [Weapon Porting]({{ '/wiki/black_ops_3/guides/Weapon-Porting.html' | relative_url }})
 
 ---
 

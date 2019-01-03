@@ -1,6 +1,6 @@
 # Dead Ops Arcade Mods
 
-## Modifying Dead Ops Arcade with mods
+### Modifying Dead Ops Arcade with mods
 This will go over setting up a modification for dead ops arcade.
 
 > **WARNING:** This tutorial requires that you have L3akMod installed!
