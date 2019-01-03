@@ -3,7 +3,7 @@ title: Modme Wiki
 baseurl: /
 description: An open-source community driven game modding wiki
 show_downloads: false
-show_wiki_pages: true
+show_wiki_pages: false
 show_wiki_pages_limit: 15
 paginate: 5
 paginate_path: "/blog/page:num"
