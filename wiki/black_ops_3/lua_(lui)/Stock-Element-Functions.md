@@ -1,14 +1,16 @@
-1.  Stock element functions with description
+# Stock Element Functions
+
+## Stock element functions with description
 Below is a list of the important element functions that you may find useful. All functions are available for `ANY` control that extends from `UIElement`
 
-1.  UIElement
+## UIElement
 The root element of all controls. Basically everything should extend this.
 
-  *Usage:**
-
+*Usage:*
+``` lua
 HudElem:addElement(Elem) -- All these functions use the self syntax ':'
-
-  *Functions:**
+```
+*Functions:*
 | Function | Arguments | Description | Return values
 | ----- | ----- | ----- | -----
 | addElement | (UIElement: Element) | Adds an element as a child | None
@@ -36,8 +38,8 @@ HudElem:addElement(Elem) -- All these functions use the self syntax ':'
 | toggleHandleMouseButton | None | Toggle whether or not this element has mouse click event | None
 | clearMouseFocus | None | Remove focus to this control from the mouse | None
 | IsMouseInsideElement | (UIElement: Element) | Checks whether or not the mouse is over the element | True if over, False if not
-| setLeftRight | (Boolean: isLeft, Boolean: isRight, Number: Left, Number: Right) | [[See Margins|http://phabricator.aviacreations.com/w/black_ops_3/lua_%28lui%29/layout_and_margins/]] | None
-| setTopBottom | (Boolean: isTop, Boolean: isBottom, Number: Top, Number: Bottom) | [[See Margins|http://phabricator.aviacreations.com/w/black_ops_3/lua_%28lui%29/layout_and_margins/]] | None
+| setLeftRight | (Boolean: isLeft, Boolean: isRight, Number: Left, Number: Right) | See Margins Tutorial | None
+| setTopBottom | (Boolean: isTop, Boolean: isBottom, Number: Top, Number: Bottom) | See Margins Tutorial | None
 | setParent | (UIElement: Element) | Sets this elements parent to the element | None
 | setActive | (Boolean: BubbleToChildren) | Sets this element state to active | None
 | setInactive | (Boolean: BubbleToChildren) | Sets this element state to inactive | None
@@ -59,6 +61,6 @@ HudElem:addElement(Elem) -- All these functions use the self syntax ':'
 | setClass | (String: Name) | Sets the class name of the element | None
 | showDebugTimer | None | Shows the debug timer clip | None
 
-  *Examples:**
+*Examples:*
 
-1.  TODO: This will be linked to from an Examples column with source code examples below.
+## TODO: This will be linked to from an Examples column with source code examples below.

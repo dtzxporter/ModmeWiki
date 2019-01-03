@@ -1,29 +1,31 @@
-1.  Creating your first menu in Lua
+# Your First Menu (Hud)
+
+## Creating your first menu in Lua
 For the sake of this tutorial we will be creating a hud that works with a `Custom Zombies Map` however, the mechanics are similar.
 
-1.  The starting function
+## The starting function
 In LUI, menus are registered under the `LUI.createMenu` namespace. This exposes your menu to the game and allows it to be used with `OpenLUIMenu("Name")`. Below is the base function:
-
+``` lua
 function LUI.createMenu.T7Hud_zm_factory(Instance)
 
 end
-
+```
 We are going to be using the T7Hud_zm_factory menu as an override, meaning our hud file should also be named `t7hud_zm_factory.lua`
 
-1.  Creating the hud itself
+## Creating the hud itself
 To create the hud, we must tell the game to allocate one for us using:
-
+``` lua
 function LUI.createMenu.T7Hud_zm_factory(Instance)
       local Hud = CoD.Menu.NewForUIEditor("T7Hud_zm_factory")
 
       return Hud
 end
-
+```
 This makes the base hud that we will add our controls to.
 
-1.  Setting up the hud
+## Setting up the hud
 The basic hud should cover the whole screen, other types like popups can have variable sizes. For our usage, we will cover the screen:
-
+``` lua
 function LUI.createMenu.T7Hud_zm_factory(Instance)
       local Hud = CoD.Menu.NewForUIEditor("T7Hud_zm_factory")
 
@@ -40,12 +42,12 @@ function LUI.createMenu.T7Hud_zm_factory(Instance)
 
       return Hud
 end
-
+```
 This is a typical fullscreen hud setup, we have a hud that stretches to the window size and also play the opening sound at the time of loading.
 
-1.  Adding a control
+## Adding a control
 Adding a control to the hud is easy, but you should be careful to reference your element so we can clean up properly later. The following will add a control:
-
+``` lua
 function LUI.createMenu.T7Hud_zm_factory(Instance)
       local Hud = CoD.Menu.NewForUIEditor("T7Hud_zm_factory")
 
@@ -72,11 +74,11 @@ function LUI.createMenu.T7Hud_zm_factory(Instance)
 
       return Hud
 end
+```
 
-
-1.  Cleaning up properly
+## Cleaning up properly
 Now that we added a control, it is important to properly clean up the control after, below, we will register an event for the menu closing and then close our children controls:
-
+``` lua
 function LUI.createMenu.T7Hud_zm_factory(Instance)
       local Hud = CoD.Menu.NewForUIEditor("T7Hud_zm_factory")
 
@@ -111,5 +113,5 @@ function LUI.createMenu.T7Hud_zm_factory(Instance)
 
       return Hud
 end
-
+```
 By overriding the close function of the hud, it allows us to cleanup the elements we made earlier. By including this hud and overriding the factory hud file: `ui/uieditor/menus/hud/t7hud_zm_factory.lua` You will see the changes you made while opening a map like `The Giant` or a mod map.
