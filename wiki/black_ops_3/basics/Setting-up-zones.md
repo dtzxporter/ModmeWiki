@@ -1,4 +1,6 @@
-  *Setting up in Radiant**
+# Setting Up Zones
+
+*Setting up in Radiant*
 
 You will have something like this example, which has 2 zones:
 
@@ -30,48 +32,47 @@ Make sure the new zone is targeting these new spawners.
 
 {F72}
 
-  *Setting up in script**
+*Setting up in script*
 
 Open your `mapname gsc` and find this:
 
-lang=php
+``` php
 function usermap_test_zone_init()
 {
 	level flag::init( "always_on" );
 	level flag::set( "always_on" );
 }	
-
+```
 
 Remove the two flag lines.
 
 Now you need to add your zones using the following command:
 
-lang=php
+``` php
 zm_zonemgr::add_adjacent_zone( "ZONE TARGETNAME",		"OTHER ZONE TARGETNAME",		"SCRIPT FLAG TO ACTIVATE ZONE" );
-
+```
 
 So, for our example, it would appear as this:
 
-lang=php
+``` php
 function usermap_test_zone_init()
 {
 	zm_zonemgr::add_adjacent_zone( "start_zone",		"zone_1",		"open_zone_1" );
-}	
-
+}
+```
 
 First zone is the zone player is in.
 Second zone is the zone to be activated
 Script flag is any string, that you will use later on your door blocker to activate the zone.
 
-  *Finally**
+*Finally*
 
-This is all you need to do to set up the zones, however we haven't covered actually activating it. We would use a door to enter it and thus activate it. Doors are covered [[here (coming soon)|#]].
+This is all you need to do to set up the zones, however we haven't covered actually activating it. We would use a door to enter it and thus activate it. Doors are covered [here]({{ ''/wiki/black_ops_3/basics/Setting-up-doors.html' | relative_link }})
 
-  *Notes**
-Although we have created a second zone, I believe because it's inactive you will still die by entering it.
+> **NOTE:** Although we have created a second zone, I believe because it's inactive you will still die by entering it.
 
 ---
 
-//**Contributors**//
-Harry Bo21
-DTZxPorter
+_Contributors:_
+- Harry Bo21
+- DTZxPorter

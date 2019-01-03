@@ -1,11 +1,11 @@
-Find your mapname.gsc (i.e. `Black Ops III\usermaps\zm_yourmapname\scripts\zm\zm_yourmapname.gsc`, not .csc)
+# Zombie Counter
 
-Within the `main()` function, add a new line inside it: `_INIT_ZCOUNTER();`
+- Find your mapname.gsc (i.e. `Black Ops III\usermaps\zm_yourmapname\scripts\zm\zm_yourmapname.gsc`, not .csc)
+- Within the `main()` function, add a new line inside it: `_INIT_ZCOUNTER();`
 
 After inserting that in, go to the end of the script and paste in the entire following;
 
-
-lang=php
+``` php
 function _INIT_ZCOUNTER()
 {
 	ZombieCounterHuds = [];
@@ -120,11 +120,11 @@ function hudMoveTo(posVector, fadeTime) // Just because MoveOverTime doesn't alw
 		wait(0.0001);
 	}
 }
-
+```
 
 You can configure the HUD within the `_INIT_ZCOUNTER()` function where you can change text, colours, font scale and display type. Display type is either showing the total zombies in that round, or the currently spawned zombie count.
 
 ---
 
-//**Contributors:**//
-DualVII
+_Contributors:_
+- DualVII
