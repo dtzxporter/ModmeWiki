@@ -11,7 +11,7 @@ var jsondata=[
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-      "content"  : "{{ post.content | strip_html | strip_newlines | json }}"
+      "content"  : "{{ post.content | strip_html | strip_newlines | escape }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ,
@@ -24,7 +24,7 @@ var jsondata=[
         "tags"     : "{{ page.tags | join: ', ' }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
         "date"     : "{{ page.date }}",
-        "content"  : "{{ page.content | strip_html | strip_newlines | json }}"
+        "content"  : "{{ page.content | strip_html | strip_newlines | escape }}"
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
