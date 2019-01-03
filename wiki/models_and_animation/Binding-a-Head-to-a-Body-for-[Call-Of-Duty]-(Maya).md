@@ -1,16 +1,19 @@
-  *Binding the head**
+# Binding A Head To A Body For [Call of Duty] (Maya)
+
+*Binding the head*
+
 For some body types where the head isn't attached to the body in the body model (Mostly zombie models) you can attach it to make it easier to work with.
 
-  *First step: Bind the head mesh**
+*First step: Bind the head mesh*
 - Import the head mesh into Maya and apply the bind file.
 - Save the scene as `helmet_bound.ma (or mb).`
 
-  *Next step: Loading the scene**
+*Next step: Loading the scene*
 - `File->Open` the body (This is done to remove namespaces)
 - Drag on the `helmet_bound` file you saved earlier.
 - Run the following mel script (save as binder.mel):
 
-lang=php
+``` php
 // Stage 1: Bind helmet
 
 parent helmet_bound:j_spine4 j_spineupper;
@@ -41,11 +44,11 @@ delete j_neck;
 // Stage 4: Done
 
 print "Done On to Manual Step!";
+```
 
+> **WARNING:** If you are using a model set with no arms on the body, you may have to manually rename `helmet_bound:j_spine4` back to just `j_spine4`
 
-WARNING: If you are using a model set with no arms on the body, you may have to manually rename `helmet_bound:j_spine4` back to just `j_spine4`
-
-  *Final step: Binding the finished body properly**
+*Final step: Binding the finished body properly*
 - Find the `j_spine4` from the body mesh.
 - Expand it and select all it's children.
 - Middle mouse drag the children onto the `helmet_bound:j_spine4`
