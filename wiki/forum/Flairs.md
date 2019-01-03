@@ -1,8 +1,8 @@
-#Modme Flairs=
+# Modme Flairs
 
 A list of all flairs we currently have on Modme. Flairs in the Reserved Flairs section cannot be requested or suggested.
 
-#Available Flairs=
+## Available Flairs
 
 <table>
 	<tr>
@@ -85,7 +85,7 @@ A list of all flairs we currently have on Modme. Flairs in the Reserved Flairs s
       </tr>
 </table>
 
-#Reserved Flairs=
+## Reserved Flairs
 
 <table>
 	<tr>
