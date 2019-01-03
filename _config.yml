@@ -16,8 +16,8 @@ git_branch: master
 theme: 
 use_github_wiki: false
 use_prose_io: false
-search_engine : "google"
-google_cse_token: "011398544024441280336:upqom_yvlsc"
+search_engine : "js_rss"
+google_cse_token:
 wiki_folder : "wiki"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 
