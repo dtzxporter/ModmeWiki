@@ -1,3 +1,5 @@
+# Adding A Custom Weapon To Weapon Kits
+
 > **NOTE:** Before starting this tutorial, you will need to obtain a copy of these files: `zm_gunlevels.csv`, `mp_attributestable.csv`, `mp_statstable.csv`, `cp_statstable.csv` and `zm_statstable.csv`. Here is a download with the files in: [Download](https://mega.nz/#!zBtCyJ5L!MMhLc1ddeLSMSuLpIdTIquK_rAFpFvF9tpyVwW60raM) (Credit Scobalula for providing the means to obtain these tables)
 
 > **IMPORTANT:** This cannot be achieved in a standalone map, you will need an accompanying mod to go with it.
