@@ -11,7 +11,6 @@ As you can see, we have started to migrate the old wiki contents here so that we
 - The links at the top-right serve as easy access to editing, creating new, and viewing the history of pages in the wiki.
 
 ## Contributing
-- As of right now, the wiki is **READ ONLY** until we migrate all the old content. `Estimated finish date is 1/10/2019`
 - The wiki is `100%` community driven and most of the work was submitted by non-staff members of Modme.
 - All you need to contribute is a Github account and you're good to go!
 - Edit or submit new pages from the `/wiki` subdirectory and make sure they are linked properly.

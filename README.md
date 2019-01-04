@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to the Modme Wiki (Source Repo)
 
-You can use the [editor on GitHub](https://github.com/dtzxporter/ModmeWiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An open-source community driven game modding wiki, founded by [DTZxPorter](https://twitter.com/dtzxporter), built for the community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome
+As you can see, we have started to migrate the old wiki contents here so that we can continue to provide an up-to-date and resource rich experience for modders. Please excuse the look of some pages while we revamp their contents!
 
-### Markdown
+## Live Site
+[Modme Wiki](https://wiki.modme.co)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dtzxporter/ModmeWiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributing
+- The wiki is `100%` community driven and most of the work was submitted by non-staff members of Modme.
+- All you need to contribute is a Github account and you're good to go!
+- Edit or submit new pages from the `/wiki` subdirectory and make sure they are linked properly.
+- If a new game directory is required, please follow the current layout before making changes.
+- With all posts, try and follow the general layout that has been preserved throughout the wiki.
