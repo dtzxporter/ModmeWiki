@@ -1,8 +1,8 @@
-1.  Patch Call of Duty: World at War (Non-Steam)
+# Patch Call of Duty: World at War (Non-Steam)
 
 If you own `Call of Duty: World at War` that isn't a `Steam` copy, you have to manually update it to play the latest and greatest mods. The last released patch is `version 1.7`. The order that the patches are listed below is the `same order you should use to install them`.
 
-1.  Patch Download Links
+## Patch Download Links
 
 1.  [[Patch v1.1|todo]]
 2.  [[Patch v1.2|todo]]

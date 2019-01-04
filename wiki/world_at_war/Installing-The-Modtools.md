@@ -1,8 +1,8 @@
-1.  Installing the Modtools
+# Installing the Modtools
 
-If you own `Call of Duty: World at War` that isn't a `Steam` copy, please make sure you're up to date on `version 1.7`. If you aren't please check out [[Patching Call of Duty: World at War|http://phabricator.aviacreations.com/w/world_at_war/patching_a_non-steam_version/]]. Please note you should `install these patches in the order they are listed`.
+If you own `Call of Duty: World at War` that isn't a `Steam` copy, please make sure you're up to date on `version 1.7`. If you aren't please check out [Patching Call of Duty: World at War](http://wiki.modme.co/TODO_LINK_PATCH_NON_STEAM). Please note you should `install these patches in the order they are listed`.
 
-1.  Modtools Patch Download Links
+## Modtools Patch Download Links
 
 1.  Modtools Patch v1.0 ([Mirror 1](https://mega.nz/#!8VpkGS7a!pdBCAOYw4mI_QH0o9Z4HE1axcc2N0gb4utSC4OfPehg), [Mirror 2](http://planetcallofduty.gamespy.com/View.php?view=CODWAWFiles.Detail&id=27))
 2.  Modtools Patch v1.2 ([Mirror 1](https://mega.nz/#!BUYxwI7S!REXRmRvzuszuzYrywT0YzKPB1c3ufM6gf5xscpctzOo), [Mirror 2](http://www.fileplanet.com/198535/190000/fileinfo/Call-of-Duty:-World-At-War---ModTools-Package-v1.2-Update-))
