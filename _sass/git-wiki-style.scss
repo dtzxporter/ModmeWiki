@@ -91,16 +91,21 @@ pre {
 
 pre {
   padding: 8px 15px;
-  background: #f8f8f8;
+  background: #0b0e15;
   border-radius: 5px;
-  border: 1px solid #e5e5e5;
+  box-shadow: 0 0 1px #1b7db9;
+  border: 1px solid #1b7db9;
   overflow-x: auto;
 }
 
 code {
-    background-color: #f8f8f8;
-    padding: 3px;
-    border-radius: 3px;
+  background-color: #f8f8f8;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+pre code {
+  background-color: #0b0e15;
 }
 
 table {
