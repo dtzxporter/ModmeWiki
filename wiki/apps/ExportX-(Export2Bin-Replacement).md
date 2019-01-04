@@ -8,6 +8,7 @@ Either `Drag and Drop` file(s) onto the program, or use the command line -f to s
 
 ## Commands
 Below are the currently available commands:
+
 | Name | Usage | Example
 | ----- | ----- | -----
 | (f) file | Specify input the file, or directory | -f "C:\Wraith\exported_files"
