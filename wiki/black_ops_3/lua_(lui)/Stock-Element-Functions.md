@@ -11,6 +11,7 @@ The root element of all controls. Basically everything should extend this.
 HudElem:addElement(Elem) -- All these functions use the self syntax ':'
 ```
 *Functions:*
+
 | Function | Arguments | Description | Return values
 | ----- | ----- | ----- | -----
 | addElement | (UIElement: Element) | Adds an element as a child | None
