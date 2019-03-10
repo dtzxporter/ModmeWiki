@@ -2,10 +2,13 @@
 Extracts various assets from the game "Apex Legends". This software is considered **Work-in-Progress** developed by [DTZxPorter](https://twitter.com/dtzxporter). The current release v0.18 is a **demo** of what the tool is going to be capable of. Porter is working on the tool on his spare time, if you'd like to show your support to Porter for his work you can do so [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=686S5QL7Z4HKQ).
 
 _Download and version info:_
+
+> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
+
 - Download Link: [Legion (v0.18 demo)](https://mega.nz/#!sEoRnAbQ!pB2S_5VubXUgJoMItl5Jx8YtExnSrubVnwhG2i6zRUM).
 - Requires Visual Studio 2017 x64 Redist: [Redist](https://aka.ms/vs/15/release/vc_redist.x64.exe).
 - Currently works as of 3/10/2019 updates.
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
+
 
 ## Usage:
 Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
