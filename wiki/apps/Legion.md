@@ -11,6 +11,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the Win64 folder to be intact and must not be modified in any way.
 
 - The tool supports Drag and Drop functionality, supported file formats are ONLY the **.rpak** extensions.
+
 > **IMPORTANT:** The tool only supports non-patched rpaks right now; so files such as "common(02).rpak" are currently **unsupported**.
 
 ## Ripping:
