@@ -22,7 +22,11 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures in DDS format.
   - DataTables as a CSV file.
-- Models and possibly animations are coming soon.
+  
+## Coming Soon
+- Models (As various formats).
+- Animations (SEAnim).
+- Materials (Textures).
 
 ## Known Bugs:
 - A very small handfull of textures aren't supported yet.
