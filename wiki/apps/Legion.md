@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.54)](https://mega.nz/#!sEoRnAbQ!pB2S_5VubXUgJoMItl5Jx8YtExnSrubVnwhG2i6zRUM).
+- Download Link: [Legion (v0.54)](https://mega.nz/#!0EJgTQgC!YgfE0ltYpSf8ZUC_is6u6IA56G8lvTpjIuVQKtoswJE).
 - Requires Visual Studio 2017 x64 Redist: [Redist](https://aka.ms/vs/15/release/vc_redist.x64.exe).
 - Currently works as of 3/10/2019 updates.
 
