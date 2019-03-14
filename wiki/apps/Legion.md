@@ -46,4 +46,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 
 ## Versioning:
 - 0.18 - Initial Release.
-- 0.54 - Model export support, fixed patch_master crash.
+- 0.54 - Model export support, fixed patch_master crash, skip existing images.
