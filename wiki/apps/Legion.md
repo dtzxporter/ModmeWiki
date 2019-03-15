@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.54)](https://mega.nz/#!0EJgTQgC!YgfE0ltYpSf8ZUC_is6u6IA56G8lvTpjIuVQKtoswJE).
+- Download Link: [Legion (v0.60)](https://mega.nz/#!xZhz0IQT!yNb2OshRENT3ef3gNa677B99TcIb-bV4QdDkNfDAISE).
 - Requires Visual Studio 2017 x64 Redist: [Redist](https://aka.ms/vs/15/release/vc_redist.x64.exe).
 - Currently works as of 3/10/2019 updates.
 
@@ -29,7 +29,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 - Full example:
   - `--exportmdl --mdlfmt=smd "C:\path\to\apex\paks\Win64\common.rpak"`
 
-> **IMPORTANT:** The tool only supports non-patched rpaks right now; so files such as "common(02).rpak" are currently **unsupported**.
+> **IMPORTANT:** The tool **AUTO LOADS** the patch rpak files, just specify the base one and it will handle the rest.
 
 ## Ripping:
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
@@ -47,3 +47,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 ## Versioning:
 - 0.18 - Initial Release.
 - 0.54 - Model export support, fixed patch_master crash, skip existing images.
+- 0.60 - Patch rpak support, xmodel_export model format.
