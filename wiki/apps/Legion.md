@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.61)](https://mega.nz/#!lRwxXSwB!Z8lTlKL8rM5SFcVDP9ZAJJK7ZiYVO_PoZlNayafkgNE).
+- Download Link: [Legion (v0.62)](https://mega.nz/#!EFx1RIhC!qSc0OBUBaFGbs-NZmXgBeohfT4MbKFIkGchO0s0vkkE).
 - Requires Visual Studio 2017 x64 Redist: [Redist](https://aka.ms/vs/15/release/vc_redist.x64.exe).
 - Currently works as of 3/10/2019 updates.
 
@@ -51,3 +51,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 0.54 - Model export support, fixed patch_master crash, skip existing images.
 - 0.60 - Patch rpak support, xmodel_export model format.
 - 0.61 - Shadow fix for mp_rr* crash...
+- 0.62 - Fixed SMD export when invalid normals exist, fixed materials in xmodel_export.
