@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.60)](https://mega.nz/#!QJw3iCyB!kzz_BqdLTV6L55BV7Z7XIKx21pg2Wqq3ecjLej9MGtg).
+- Download Link: [Legion (v0.61)](https://mega.nz/#!lRwxXSwB!Z8lTlKL8rM5SFcVDP9ZAJJK7ZiYVO_PoZlNayafkgNE).
 - Requires Visual Studio 2017 x64 Redist: [Redist](https://aka.ms/vs/15/release/vc_redist.x64.exe).
 - Currently works as of 3/10/2019 updates.
 
@@ -31,6 +31,8 @@ Using Legion is fairly simple as the tool only requires the files located within
 
 > **IMPORTANT:** The tool **AUTO LOADS** the patch rpak files, just specify the base one and it will handle the rest.
 
+> **NOTE:** Not all (0X).rpak files are patches, some can be loaded directly, just try them.
+
 ## Ripping:
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures in DDS format.
@@ -48,3 +50,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 0.18 - Initial Release.
 - 0.54 - Model export support, fixed patch_master crash, skip existing images.
 - 0.60 - Patch rpak support, xmodel_export model format.
+- 0.61 - Shadow fix for mp_rr* crash...
