@@ -24,7 +24,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 - To switch mode to models add:
   - `--exportmdl` as the first argument.
   - `--mdlfmt=obj` switches the model format.
-    - Formats: [obj, smd, xnatxt, xnabin] semodel is default.
+    - Formats: [obj, smd, xnatxt, xnabin, xmodel] semodel is default.
 - After these arguments, just pass the path to the rpak.
 - Full example:
   - `--exportmdl --mdlfmt=smd "C:\path\to\apex\paks\Win64\common.rpak"`
@@ -37,7 +37,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures in DDS format.
   - DataTables as a CSV file.
-  - Models as [SEModel, OBJ, XNALara, SMD].
+  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel].
   
 ## Coming Soon
 - Animations (SEAnim).
