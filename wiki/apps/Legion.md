@@ -5,9 +5,9 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.68)](https://mega.nz/#!ERxjmICB!-QCYh7HOVlidxKen9TjTJ0JtEklafklkaVfwLg0fYQo).
-- Requires Visual Studio 2017 x64 Redist: [Redist](https://aka.ms/vs/15/release/vc_redist.x64.exe).
-- Currently works as of 3/19/2019 updates.
+- Download Link: [Legion (v0.84)](https://mega.nz/#!ERxjmICB!-QCYh7HOVlidxKen9TjTJ0JtEklafklkaVfwLg0fYQo).
+- Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Currently works as of 4/7/2019 updates.
 
 ## Donate:
 - I take time out of my day to make this happen.
@@ -24,7 +24,9 @@ Using Legion is fairly simple as the tool only requires the files located within
 - To switch mode to models add:
   - `--exportmdl` as the first argument.
   - `--mdlfmt=obj` switches the model format.
-    - Formats: [obj, smd, xnatxt, xnabin] semodel is default.
+    - Formats: [obj, smd, xnatxt, xnabin, maya] semodel is default.
+- To switch mode to animations add:
+  - `--exportanim` as the first argument.
 - After these arguments, just pass the path to the rpak.
 - Full example:
   - `--exportmdl --mdlfmt=smd "C:\path\to\apex\paks\Win64\common.rpak"`
@@ -37,10 +39,10 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures in DDS format.
   - DataTables as a CSV file.
-  - Models as [SEModel, OBJ, XNALara, SMD].
+  - Models as [SEModel, OBJ, XNALara, SMD, Maya (Legacy)].
+  - Animations as [SEAnim].
   
 ## Coming Soon
-- Animations (SEAnim).
 - Enhanced GUI.
 
 ## Known Bugs:
@@ -53,3 +55,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 0.61 - Shadow fix for mp_rr* crash...
 - 0.62 - Fixed SMD export when invalid normals exist, fixed materials in xmodel_export.
 - 0.68 - Fixed season 1 rpak patches causing crashes.
+- 0.84 - Initial support for animations, performance tweaks, maya (legacy) exporter.
