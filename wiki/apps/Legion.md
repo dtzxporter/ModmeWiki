@@ -24,7 +24,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 - To switch mode to models add:
   - `--exportmdl` as the first argument.
   - `--mdlfmt=obj` switches the model format.
-    - Formats: [obj, smd, xnatxt, xnabin, maya] semodel is default.
+    - Formats: [obj, smd, xnatxt, xnabin, xmodel, maya] semodel is default.
 - To switch mode to animations add:
   - `--exportanim` as the first argument.
 - After these arguments, just pass the path to the rpak.
