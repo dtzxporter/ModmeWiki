@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.84)](https://mega.nz/#!ERxjmICB!-QCYh7HOVlidxKen9TjTJ0JtEklafklkaVfwLg0fYQo).
+- Download Link: [Legion (v0.84)](https://mega.nz/#!lYh3mAwR!hroKzB4GR9Kk9820hbGK3i3k4fA4kwer5HTcxAL8u50).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 4/7/2019 updates.
 
@@ -39,7 +39,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
   - Textures in DDS format.
   - DataTables as a CSV file.
-  - Models as [SEModel, OBJ, XNALara, SMD, Maya (Legacy)].
+  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy)].
   - Animations as [SEAnim].
   
 ## Coming Soon
