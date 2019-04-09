@@ -48,6 +48,9 @@ Using Legion is fairly simple as the tool only requires the files located within
 ## Known Bugs:
 - A very small handfull of textures aren't supported yet.
 
+## Desktop Wallpaper:
+- A slick wallpaper for Legion (By @Spooky_Sal): [Download](https://mega.nz/#!1dh2yaBY!krhTFxou3eYwrl98XVnS40fvUS69wVMVm4pLd8Oo-GM)
+
 ## Versioning:
 - 0.18 - Initial Release.
 - 0.54 - Model export support, fixed patch_master crash, skip existing images.
