@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.84)](https://mega.nz/#!lYh3mAwR!hroKzB4GR9Kk9820hbGK3i3k4fA4kwer5HTcxAL8u50).
+- Download Link: [Legion (v0.95)](https://mega.nz/#!8FQVUQTK!cUEEHp8ck4R7GX66YwtGjflNRjU2bh2YVOBq63mGceM).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 4/7/2019 updates.
 
@@ -27,6 +27,9 @@ Using Legion is fairly simple as the tool only requires the files located within
     - Formats: [obj, smd, xnatxt, xnabin, xmodel, maya] semodel is default.
 - To switch mode to animations add:
   - `--exportanim` as the first argument.
+- To change the image format add:
+  - `--imgfmt=png` switches the image format.
+    - Formats: [png, tiff] dds is default.
 - After these arguments, just pass the path to the rpak.
 - Full example:
   - `--exportmdl --mdlfmt=smd "C:\path\to\apex\paks\Win64\common.rpak"`
@@ -37,7 +40,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 
 ## Ripping:
 - The **.rpak** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
-  - Textures in DDS format.
+  - Textures as [Dds, Png, Tiff]
   - DataTables as a CSV file.
   - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy)].
   - Animations as [SEAnim].
@@ -59,3 +62,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 0.62 - Fixed SMD export when invalid normals exist, fixed materials in xmodel_export.
 - 0.68 - Fixed season 1 rpak patches causing crashes.
 - 0.84 - Initial support for animations, performance tweaks, maya (legacy) exporter.
+- 0.95 - Image format toggle (Dds, Png, Tiff), fixed rare image bug having wrong size.
