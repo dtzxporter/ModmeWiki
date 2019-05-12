@@ -81,3 +81,22 @@ Making sure your still on the `Apex_Shortcuts` Shelf, click `Attach`.
 The Conversion Rig is now setup for converting animations, you should now save the scene.
 
 > **NOTE:** IF you prefer to get a First Person view you can click the `FPS` button on the `Apex_Shortcuts` shelf to go into a FPS Perspective to preview what the weapon should look like ingame. If you want to get out of this view just double click the `FPS` button.
+
+## Converting and Fixing the ADS Animation
+
+Drag in the `ads_in_0` animation.
+
+Click `Bake` in the `Apex_Shortcuts` Shelf.
+
+Click `ADS` in the `Apex_Shortcuts` Shelf.
+
+Export the animation as `ads_up`.
+
+Tick the box `Export Animation Reversed` in the CodMayaTools window and then export the animation as `ads_down`.
+
+> **NOTE:** To speed things up there is a button on the `Apex_Shortcuts` shelf that says `Tools` which will take you straight to the Anim Export window.
+
+## Convert Normal Animations
+
+
+
