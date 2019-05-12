@@ -143,6 +143,7 @@ Export the animation in CodMayaTools.
  Use what you used for the `pullout` animation for `sprint_in` and what you used for the `putaway` animation for `sprint_out`
  
 ## Credits:
+
 **ThomasCat - Wrote the guide, Made the Conversion Rig**
 **DtzxPorter - Legion, SeTools**
 **Ray1235 - CodMayaTools**
