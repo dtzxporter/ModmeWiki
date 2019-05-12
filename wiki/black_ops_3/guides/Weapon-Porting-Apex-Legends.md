@@ -9,6 +9,7 @@ The basic workflow of obtaining and converting the Apex Legends assets:
  - Collect the required assets
  - Fix and Export the View Model
  - Create and Export a World Model
+ - Setting up the Conversion Rig
  - Convert and Fix ADS Animations
  - Convert Normal Animations
  - Create and Convert Missing/Broken Animations
@@ -65,9 +66,18 @@ Select all of the Joints **EXCEPT TAG_WEAPON** and all of the Meshes.
 
 Move the weapon so that the weapon is orientated correctly and the grip is in the centre with the trigger just above the grid.
 
-Select `tag_weapon` and, making sure your still on the `Rigging` tab, click the box next to `Skin - Bind Skin`. Make sure the settings are the same as the ones in [this](https://i.imgur.com/jdJ4Y2N.png) screenshot.
+Select `tag_weapon` + all of the meshes and, making sure your still on the `Rigging` tab, click the box next to `Skin - Bind Skin`. Make sure the settings are the same as the ones in [this](https://i.imgur.com/jdJ4Y2N.png) screenshot and then hit `Apply`
 
-The world model is now completed and you can now export it.
+The world model is now completed and you can now export it and save the scene.
 
-> **NOTE:** If you want your world model to be perfect you can export a BO3 world model and use that to get the world model as close as possible.
+> **NOTE:** If you want your world model to be perfect you can export a BO3 world model and use that to get the world model as close as possible. 
 
+## Setting up the Conversion Rig
+
+Open up the Apex Legends to Black Ops 3 Conversion Rig in Maya and drag the Viewmodel you saved onto it.
+
+Making sure your still on the `Apex_Shortcuts` Shelf, click `Attach`.
+
+The Conversion Rig is now setup for converting animations, you should now save the scene.
+
+> **NOTE:** IF you prefer to get a First Person view you can click the `FPS` button on the `Apex_Shortcuts` shelf to go into a FPS Perspective to preview what the weapon should look like ingame. If you want to get out of this view just double click the `FPS` button.
