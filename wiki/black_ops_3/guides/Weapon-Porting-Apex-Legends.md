@@ -98,12 +98,12 @@ Tick the box `Export Animation Reversed` in the CodMayaTools window and then exp
 
 ## Converting Normal Animations
 To clarify, the animations you can export this way are:
- - draw_0
- - drawfirst_0
- - inspect_0
- - raise_0
- - reload_0
- - reload_empty_0
- - holster_0
+ - `draw_0`
+ - `drawfirst_0`
+ - `inspect_0`
+ - `raise_0`
+ - `reload_0`
+ - `reload_empty_0`
+ - `holster_0`
  
 
