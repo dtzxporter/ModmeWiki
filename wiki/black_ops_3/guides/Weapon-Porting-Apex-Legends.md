@@ -39,4 +39,22 @@ Go back into the Legion export folder and go into the `animations` folder. Get t
 
 ## Fixing and Exporting the View Model
 
-Open a Maya window and 
+Open a Maya window and drag in the SeModel file for your weapon.
+
+Navigate to the `Apex_Shortcuts` Shelf.
+
+Click `Model`. You will notice the weapon has now moved, scaled up and extra joints have been deleted.
+
+Create a new Joint and move it to the muzzle of the weapon. Parent this joint under `def_c_base` and rename the joint to `tag_flash`. This is where the muzzle flash FX is going to be played.
+
+Save this as a .MA in a safe space. This will be used for animations. Anything from this point on **DO NOT SAVE**
+
+Delete the mesh of the attachments you do not wish to include in your weapon and, optionally, delete the joint it was binded to.
+
+Rename `def_c_base` to `tag_weapon`.
+
+Export this as the View Model.
+
+## Creating and Exporting the World Model.
+
+
