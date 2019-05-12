@@ -55,6 +55,19 @@ Rename `def_c_base` to `tag_weapon`.
 
 Export this as the View Model.
 
+> **NOTE:** If you do not want to redo the steps below "DO NOT SAVE" then keep the Maya window open while working on the World Model.
+
 ## Creating and Exporting the World Model.
 
+Select all of the meshes and, making sure your on the `Rigging` tab, click `Skin - Unbind Skin`.
+
+Select all of the Joints **EXCEPT TAG_WEAPON** and all of the Meshes.
+
+Move the weapon so that the weapon is orientated correctly and the grip is in the centre with the trigger just above the grid.
+
+Select `tag_weapon` and, making sure your still on the `Rigging` tab, click the box next to `Skin - Bind Skin`. Make sure the settings are the same as the ones in [this](https://i.imgur.com/jdJ4Y2N.png) screenshot.
+
+The world model is now completed and you can now export it.
+
+> **NOTE:** If you want your world model to be perfect you can export a BO3 world model and use that to get the world model as close as possible.
 
