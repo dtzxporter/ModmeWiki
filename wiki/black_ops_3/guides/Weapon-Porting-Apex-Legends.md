@@ -12,7 +12,7 @@ The basic workflow of obtaining and converting the Apex Legends assets:
  - Setting up the Conversion Rig
  - Convert and Fix ADS Animations
  - Convert Normal Animations
- - Create and Convert Missing/Broken Animations
+ - Create and Convert Broken Animations
 
 ## Dumping the games assets
 It is paramount that you read the instructions given to you on the Legion Wiki page before you attempt to rip assets. This will give you a understanding of the tool so you do not make any mistakes.
@@ -106,4 +106,42 @@ To clarify, the animations you can export this way are:
  - `reload_empty_0`
  - `holster_0`
  
+Firstly, make sure to reload the Conversion Rig scene you created otherwise the animation will break.
 
+Drag on the animation.
+
+Click `Bake` in the `Apex_Shortcuts` Shelf.
+
+Click `Export` in the `Apex_Shortcuts` Shelf.
+
+Export the animation in CodMayaTools.
+
+## Creating and Converting Broken Animations
+
+**Idle Animations**
+
+ Drag in `draw_0` and follow the same method as `Converting Normal Animations` except don't export it at the end.
+ 
+ Go to the last frame on the timeline. [Example](https://i.imgur.com/ZQ8rZBZ.png)
+ 
+ Select `Joints` and click `Select - Hierarchy`.
+ 
+ Type in [this](https://i.imgur.com/wzn7cjl.png) box: `cutKey`.
+ 
+ Whatever the last number on the animation is, add 2 to it and type it into [this](https://i.imgur.com/w1tbvOn.png) box on the **RIGHT**.
+ 
+ Type what the last number of the animation was into the box to the **LEFT** of the box you just typed in.
+ 
+ Select `tag_torso` + `tag_cambone` and click `Select - Hierarchy`.
+ 
+ Export the animation.
+ 
+**Sprint Animations**
+ 
+ Drag in `sprint_0` and follow the same steps as `Converting Normal Animations`.
+ 
+ Use what you used for the `pullout` animation for `sprint_in` and what you used for the `putaway` animation for `sprint_out`
+ 
+
+ 
+ 
