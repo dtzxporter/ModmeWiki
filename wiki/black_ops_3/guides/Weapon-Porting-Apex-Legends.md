@@ -96,7 +96,14 @@ Tick the box `Export Animation Reversed` in the CodMayaTools window and then exp
 
 > **NOTE:** To speed things up there is a button on the `Apex_Shortcuts` shelf that says `Tools` which will take you straight to the Anim Export window.
 
-## Convert Normal Animations
-
-
+## Converting Normal Animations
+To clarify, the animations you can export this way are:
+ - draw_0
+ - drawfirst_0
+ - inspect_0
+ - raise_0
+ - reload_0
+ - reload_empty_0
+ - holster_0
+ 
 
