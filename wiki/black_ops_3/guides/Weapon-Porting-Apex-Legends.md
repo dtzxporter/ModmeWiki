@@ -1,7 +1,8 @@
 # Porting weapons from Apex Legends to Black Ops 3
 
 ### Introduction & Prerequisites
-Porting a weapon from Apex Legends to Black Ops 3 is a bit more complicated then porting weapons from older CoD games. This tutorial will cover everything on the Maya side only. If you are struggling setting everything up in APE first it is suggested that you port weapons from old games first until you understand APE better. Any problems feel free to message me on discord at: Thomas Cat#7648
+Porting a weapon from Apex Legends to Black Ops 3 is a bit more complicated then porting weapons from older CoD games. This tutorial will cover everything on the Maya side only. If you are struggling setting everything up in APE first it is suggested that you port weapons from old games first until you understand APE better. Any problems feel free to message me on discord at: Thomas Cat#7648 or on [Twitter](https://twitter.com/SpSSdyMain).
+
 - **Required programs: [Autodesk Maya](http://www.autodesk.com/products/maya/overview), [Conversion Rig](https://modme.co/index.php?view=topic&tid=2860), [Black Ops 3](http://store.steampowered.com/app/311210/), [Black Ops 3 Mod Tools](http://steamcommunity.com/app/455130), [Legion](https://wiki.modme.co/wiki/apps/Legion.html), [CodMayaTools](https://github.com/LunaRyuko/CoDMayaTools/releases), [SeTools](https://github.com/dtzxporter/SETools)**
 
 The basic workflow of obtaining and converting the Apex Legends assets:
