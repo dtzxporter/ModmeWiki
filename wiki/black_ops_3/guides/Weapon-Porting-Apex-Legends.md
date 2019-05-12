@@ -145,9 +145,13 @@ Export the animation in CodMayaTools.
 ## Credits:
 
 ThomasCat - Wrote the guide, Made the Conversion Rig
+
 DtzxPorter - Legion, SeTools
+
 Ray1235 - CodMayaTools
+
 Scobalula - CodMayaTools
+
 Respawn Entertainment - Assets
 
 **IF YOU USED THIS GUIDE CREDIT THE PEOPLE ABOVE  ^**
