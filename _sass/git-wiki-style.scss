@@ -136,7 +136,13 @@ img {
 }
 
 .w3-teal {
-  color: #000 !important;
+  color: #fff !important;
+  background-color: inherit !important;
+  height: 100%;
+}
+
+.w3-teal:hover {
+  color: #fff !important;
   background-color: inherit !important;
 }
 
@@ -167,11 +173,10 @@ img {
 #git-wiki-mobile-header {
   position: fixed;
   top: 0;
+  left: 0;
   height: 55px;
-  background-color: white;
+  background-color: #292828;
   width: 100%;
-  border-bottom: 1px solid;
-  border-radius: 10px;
   z-index: 999;
 }
 
@@ -318,7 +323,6 @@ screen and (max-width: 960px) {
 
   .git-wiki-page,
   footer {
-    border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 60px 0 20px;
