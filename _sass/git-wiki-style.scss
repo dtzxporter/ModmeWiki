@@ -180,6 +180,10 @@ img {
   z-index: 999;
 }
 
+#git-wiki-mobile-header a {
+  vertical-align: middle;
+}
+
 #git-wiki-sidebar {
   width: 280px !important;
   float: left;
@@ -196,9 +200,7 @@ screen and (max-width: 992px) {
   #git-wiki-sidebar {
     position: fixed !important;
     top: 50px;
-    border-right: 1px solid;
-    border-bottom: 1px solid;
-    border-radius: 10px;
+    border-right: 1px solid #484848;
   }
 
   .git-wiki-page {
