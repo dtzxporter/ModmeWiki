@@ -1,4 +1,5 @@
-{F56879, layout = center, size=full}
+# Insan3Mod
+Modtools project for Crash Bandicoot N-Sane Trilogy.
 
 # Features =====
 - Support for unpacking *.pak files completely back into zone files
