@@ -83,13 +83,6 @@ include,harrybo21_dragon_shield
 
 Ok, so assuming you've followed these steps exactly - you now just need to recompile your map and link in launcher. Now go test your super awesome Dragon Shield!
 
-*More buildables still to come!*
-
-- Apothicon Servant
-- Ragnarok
-- Gas Mask
-- KT-4 Wonder weapon
-
 _Contributors:_
 - Harry Bo21
 - DTZxPorter

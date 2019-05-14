@@ -27,13 +27,6 @@ Place all of them in `BlackOps3Root/map_source/_prefabs/`. You can place as many
 
 Also, you can change the model tag on the part to change the shield's look if you like.
 
-*More buildables still to come!*
-- Apothicon Servant
-- Other Shield Varients
-- Ragnarok
-- Gas Mask
-- KT-4 Wonder weapon
-
 ---
 
 _Contributors:_
