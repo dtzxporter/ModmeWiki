@@ -7,7 +7,9 @@ This tutorial will go over properly setting up a solo load screen video (With wo
 You will need to have a video prepared for use with your mod. The video must have it's audio separated in a different file, as we will have to add it separately in order for it to work properly.
 
 ## Converting the video file
-To convert the video properly, we'll use a tool called handbrake [Download](https://handbrake.fr/). With handbrake, you can provide the input video file for use when transcoding. Using the presets on the right, you can select 720p30fps as a base. In the format dropdown, select `MKV` format. Finally before exporting, you must go to the audio tab and **remove** any existing tracks. The video file will not play otherwise.
+To convert the video properly, we'll use a tool called handbrake [Download (v1.0.3)](https://handbrake.fr/rotation.php?file=HandBrake-1.0.3-x86_64-Win_GUI.exe&old=true). With handbrake, you can provide the input video file for use when transcoding. Using the presets on the right, you can select 720p30fps as a base. In the format dropdown, select `MKV` format. Finally before exporting, you must go to the audio tab and **remove** any existing tracks. The video file will not play otherwise.
+
+> **NOTICE:** Linked is version 1.0.3 of handbrake, there is a known issue that newer versions of handbrake do not encode the videos the same, and it causes Black Ops 3 to crash.
 
 {F13258}
 
