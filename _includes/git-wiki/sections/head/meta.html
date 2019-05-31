@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width">
 
 <meta name="og:image" content="https://wiki.modme.co/assets/images/logo_fav.png">
-<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta name="twitter:card" content="summary">
 
 {% seo %}
