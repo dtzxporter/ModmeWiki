@@ -5,9 +5,9 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v0.98)](https://mega.nz/#!5JIDmSgC!PrvR-yJUvslNCWRrQQPjx0ajIw1BnAQmd7eqMXXkIv0).
+- Download Link: [Legion (v1.00)](https://mega.nz/#!gYIATCSC!Le8FwVkzuW2pctBlHOryplabMMba6D8ECIkSFnijwXM).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-- Currently works as of 5/7/2019 updates.
+- Currently works as of 7/17/2019 updates.
 
 ## Donate:
 - I take time out of my day to make this happen.
@@ -50,6 +50,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 
 ## Desktop Wallpaper:
 - A slick wallpaper for Legion (By @Spooky_Sal): [Download](https://mega.nz/#!1dh2yaBY!krhTFxou3eYwrl98XVnS40fvUS69wVMVm4pLd8Oo-GM)
+- An electrifying poster for Legion S2 (By @Spooky_Sal): [Download](https://mega.nz/#!ABBGkKza!0L_YWs-T6TGMcEBnBvk9UqMaVhxvN5oUatIGAPN8KY8)
 
 ## Versioning:
 - 0.18 - Initial Release.
@@ -61,3 +62,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 0.84 - Initial support for animations, performance tweaks, maya (legacy) exporter.
 - 0.95 - Image format toggle (Dds, Png, Tiff), fixed rare image bug having wrong size.
 - 0.98 - Added support for my new FBX exporter.
+- 1.00 - Support for Apex S2, support for new multi-UVs, support for last few missing image formats (Requires S2 files).
