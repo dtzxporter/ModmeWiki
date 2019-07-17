@@ -1,4 +1,4 @@
-# ZmAmmo_PropFactory.lua
+# ui.uieditor.widgets.HUD.ZM_AmmoWidgetFactory.ZmAmmo_PropFactory.lua
 
 ``` lua
 -- LUAC rebuild by HarryBo21
