@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v1.00)](https://mega.nz/#!gYIATCSC!Le8FwVkzuW2pctBlHOryplabMMba6D8ECIkSFnijwXM).
+- Download Link: [Legion (v1.01)](https://mega.nz/#!ABZFRaiC!9Guet4aTeI7RIlmj_NmQcAoilXUD8w3r67Rf-SZfpzg).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 7/17/2019 updates.
 
@@ -63,3 +63,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 0.95 - Image format toggle (Dds, Png, Tiff), fixed rare image bug having wrong size.
 - 0.98 - Added support for my new FBX exporter.
 - 1.00 - Support for Apex S2, support for new multi-UVs, support for last few missing image formats (Requires S2 files).
+- 1.01 - Fix for large scale map models which were broken on export.
