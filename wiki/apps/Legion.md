@@ -9,6 +9,11 @@ _Download and version info:_
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 7/17/2019 updates.
 
+## 🎂 Beta v2.00:
+- Download Link: [Legion Beta (v2.00)](https://mega.nz/#!EU41UYyZ!_BqzIx7YTBxBKSaaibSLziWFNfYhbnASWksXiiYzLBI).
+- Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Sound/Audio only beta.
+
 ## Donate:
 - I take time out of my day to make this happen.
 - Show your support: [HERE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=686S5QL7Z4HKQ)
