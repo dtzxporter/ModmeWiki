@@ -1,11 +1,11 @@
 # DayZATool - DayZ animation / skeleton tool
-Extracts animations/skeletons and generates animations for DayZ Tools. Developed by [DTZxPorter](https://twitter.com/dtzxporter).
+Extracts animations/models and generates animations for DayZ Tools. Developed by [DTZxPorter](https://twitter.com/dtzxporter).
 
 _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [DayZATool](https://mega.nz/#!VBgyjY5I!pJE2I1tiflsh-g_Q3r84fU4wX4L3QK8f4UCK4qC5heU).
+- Download Link: [DayZATool](https://mega.nz/#!lJhkTaQa!VQDEyrZZf9kz8ZqeDBozm6L2d4EjafIzgJLfJzgV3NQ).
 - Requires .NET Framework (4.5): [Download](https://www.microsoft.com/en-us/download/details.aspx?id=30653).
 
 ## Donate:
@@ -15,7 +15,7 @@ _Download and version info:_
 ## Usage:
 Using DayZATool just requires one of the following formats:
 - anm (For extraction)
-- xob (For skeleton)
+- xob (For extraction)
 - seanim (For generate)
 
 ## Command Line:
@@ -23,8 +23,8 @@ Using DayZATool just requires one of the following formats:
   - `--command input scale`.
 - To extract anm files to seanim files:
   - `--extract-anim file.anm`
-- To extract xob skeleton files to semodel files:
-  - `--extract-skel file.xob`
+- To extract xob files to semodel files:
+  - `--extract-mdl file.xob`
 - To create a new anm file from a seanim:
   - `--generate-anim file.seanim`
 
@@ -40,3 +40,4 @@ Using DayZATool just requires one of the following formats:
 
 ## Versioning:
 - 1.00 - Initial release.
+- 1.20 - Support for complete models instead of skeletons.
