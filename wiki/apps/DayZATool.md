@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [DayZATool](https://mega.nz/#!lJhkTaQa!VQDEyrZZf9kz8ZqeDBozm6L2d4EjafIzgJLfJzgV3NQ).
+- Download Link: [DayZATool](https://mega.nz/#!lRZSiYiJ!re3Tq0SoSjyhTPTCZMZe28t0vaS11q1SzkwLaO3u8JM).
 - Requires .NET Framework (4.5): [Download](https://www.microsoft.com/en-us/download/details.aspx?id=30653).
 
 ## Donate:
@@ -41,3 +41,4 @@ Using DayZATool just requires one of the following formats:
 ## Versioning:
 - 1.00 - Initial release.
 - 1.20 - Support for complete models instead of skeletons.
+- 1.30 - Support for XOB8HEAD models.
