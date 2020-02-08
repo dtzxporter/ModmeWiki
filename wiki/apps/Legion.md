@@ -1,5 +1,5 @@
 # Legion - The Apex Legends Asset Extractor
-<img src="{{ 'LegionBanner.jpg' | relative_link}}" alt="drawing" style="height: 255px; display:block;"/>
+<img src="{{ 'LegionBanner.jpg' | relative_link}}" alt="drawing" style="height: 255px; display:block;margin-bottom: 12px;"/>
 Extracts various assets from the game "Apex Legends". This software is considered **Work-in-Progress** developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
 _Download and version info:_
