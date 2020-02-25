@@ -9,7 +9,7 @@ _Download and version info:_
 - Download Link: [Legion (v2.00)](https://mega.nz/#!sE42GIrQ!76YP0HVlwSJCNu1s64OEfrATuNJMIeN7eSkJPUdraRU).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 2/22/2020 updates.
-- **NOTE**: `A small handfull of models are known to be patched in a way Legion can not deal with yet.` It is still recommended you export every single model now, while the tool still works.
+- **NOTE**: `A small handfull of assets are known to be patched in a way Legion can not deal with yet.` It is still recommended you export every single model now, while the tool still works.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
