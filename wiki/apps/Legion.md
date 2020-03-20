@@ -6,7 +6,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.10)](https://mega.nz/#!BFwBkTxJ!F4zEq15QaSRifZGBUWVibS3h_lZo8W3FZ8yBpVVVqZI).
+- Download Link: [Legion (v2.11)](https://mega.nz/#!hVZWjQLT!lvnBMCV9pF9ANyrtQFP9DWEaffRyWXK1QQkSB0IMqNw).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 2/22/2020 updates.
 
@@ -52,3 +52,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 1.02 - Fix for crash on some smaller paks.
 - 2.00 - Support for most patched assets, new user interface with built-in model previewer. Material/Skin export ability and new Image format, compatible with S4.
 - 2.10 - Support for Titanfall 2 (Models, Animations, RPaks, Sounds). Preliminary support for the new Cast format. Image preview (press p). Apex animation fixes. FBX export tweaks for UV Layers.
+- 2.11 - Fixed crash in some TF2 Rpaks, fixed bug with some TF2 models missing animations.
