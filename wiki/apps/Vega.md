@@ -5,7 +5,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Vega (v1.01 BETA)](https://mega.nz/#!cIokEaDJ!8jMnlVY0fBKIyzETkeH2Tnsk_RRK-VYDm6rPsdzsA5A).
+- Download Link: [Vega (v1.10 BETA)](https://mega.nz/#!YA5CxQgL!nnTz-5Ph_bI_2Iw0A42O7OIJpMn6JqaNfEX83bfl-ok).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
 ## ❤️ Donate:
@@ -36,3 +36,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 ## 📌 Versioning:
 - 1.00 - Initial Release (BETA).
 - 1.01 - Fixed FBX/XNALara files. Fix for some skinned models not exporting. `gameresources.resources` is now loaded REGARDLESS of the package you select.
+- 1.10 - Animation export support.
