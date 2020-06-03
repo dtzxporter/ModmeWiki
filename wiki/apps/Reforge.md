@@ -1,5 +1,5 @@
 # Reforge - For Honor *.forge file decryptor
-Decryptes the custom encrypted forge files in the newer versions of the game.
+Decrypts the custom encrypted forge files in the newer versions of the game.
 
 _Download and version info:_
 
