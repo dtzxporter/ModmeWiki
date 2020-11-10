@@ -1,14 +1,14 @@
 # Legion - The Apex Legends Asset Extractor
 <img src="{{ 'LegionBanner.jpg' | relative_link}}" alt="drawing" style="height: 255px; display:block;margin-bottom: 12px;"/>
-Extracts various assets from the game "Apex Legends". This software is considered **Work-in-Progress** developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
+Extracts various assets from the game "Apex Legends". This software is developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
 _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.13)](https://mega.nz/#!4NJSyQyA!4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA).
+- Download Link: [Legion (v2.20)](https://mega.nz/file/8RYgmLJZ#jDmjGTVg-05-bflcrS292FIMRM0j7852wsWoPKsEiTA).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-- Currently works as of 2/22/2020 updates.
+- Currently works as of 11/9/2020 updates.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
@@ -55,3 +55,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 2.11 - Fixed crash in some TF2 Rpaks, fixed bug with some TF2 models missing animations.
 - 2.12 - Export all material slots, fixed FBX and XNALara exports with skeletons.
 - 2.13 - Fixed crash introduced in v2.12 when additional material slots were added.
+- 2.20 - Support for Apex S7 (Not backwards compatible)
