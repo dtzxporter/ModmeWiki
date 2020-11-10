@@ -6,7 +6,7 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.20)](https://mega.nz/file/8RYgmLJZ#jDmjGTVg-05-bflcrS292FIMRM0j7852wsWoPKsEiTA).
+- Download Link: [Legion (v2.21)](https://mega.nz/file/JRJ2GZ4Q#38lKwAa3guI8VtYHkz0G_X0tXkFYUkEXlv-d4OBW1uA).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 11/9/2020 updates.
 
@@ -56,3 +56,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 2.12 - Export all material slots, fixed FBX and XNALara exports with skeletons.
 - 2.13 - Fixed crash introduced in v2.12 when additional material slots were added.
 - 2.20 - Support for Apex S7 (Not backwards compatible)
+- 2.21 - Fixed crash during model exports, fixed animations missing parts. Added support for previewing w/ materials. Fixed bug with some image formats.
