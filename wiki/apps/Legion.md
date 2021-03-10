@@ -6,9 +6,9 @@ _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.23)](https://mega.nz/file/hAxSVICK#XDqUGRBgMUm2IDi2OGxuIcCwu2r2G3UENHhSuZgyynY).
+- Download Link: [Legion (v2.24)](https://mega.nz/file/INJUULBT#SFEoFd16B7pHzeYAV8oNYFiSPHltCmS0oBb3r9p2z0Y).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-- Currently works as of 2/3/2021 updates.
+- Currently works as of 3/9/2021 updates.
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
@@ -59,3 +59,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 2.21 - Fixed crash during model exports, fixed animations missing parts. Added support for previewing w/ materials. Fixed bug with some image formats.
 - 2.22 - Support for Apex S8 (Audio is no longer backwards compatible), Fix for crash involving an unsupported model format in other paks.
 - 2.23 - Add support for missing scales in animations. (Only tested in Maya, may not function properly in Blender)
+- 2.24 - Fixed crash on some models after the chaos update, PNGs have improved compatibility with legacy style importers.
