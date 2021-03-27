@@ -1,11 +1,11 @@
 # Vega - The Doom Eternal Asset Extractor
-Extracts various assets from the game "Doom Eternal". This software is considered **Work-in-Progress** developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
+Extracts various assets from the game "Doom Eternal". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
 _Download and version info:_
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Vega (v1.20 BETA)](https://mega.nz/file/ZApSRSZJ#hHBxb2oqIlX3d9jHJuEbWGwlCugls0Wg9FnzAyXc24M).
+- Download Link: [Vega (v1.30 BETA)](https://mega.nz/file/gBZWjJSa#6IzMiA1mGkBdqUbKR2XO5arurqnZt1lHmlWTjh-F_7c).
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 
 ## ❤️ Donate:
@@ -39,3 +39,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 - 1.10 - Animation export support.
 - 1.11 - Fixed crash on export of some assets.
 - 1.20 - Better support for static models. Added support for UV Layer 2 (Only supported in SEModel/Cast Models) for static models.
+- 1.30 - Fixed various export crashes with DLC aassets, Add support for previewing textured mode (ColorMap only).
