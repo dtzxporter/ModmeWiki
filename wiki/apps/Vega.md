@@ -22,7 +22,7 @@ Using Vega is fairly simple as the tool only requires the files located within "
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the base folder to be intact and must not be modified in any way.
 
 ## Ripping:
-- The **.resource** files contain various encoded assets that Legion can export; and, as of now the currently supported assets are:
+- The **.resource** files contain various encoded assets that Vega can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
   - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy), Kaydara FBX, Cast].
   - Animations as [SEAnim, Cast] (Coming soon).
