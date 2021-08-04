@@ -7,6 +7,7 @@ _Download and version info:_
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
 - Download Link: [Legion (v2.24)](https://mega.nz/file/INJUULBT#SFEoFd16B7pHzeYAV8oNYFiSPHltCmS0oBb3r9p2z0Y).
+- Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
 - Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 - Currently works as of 3/9/2021 updates.
 
