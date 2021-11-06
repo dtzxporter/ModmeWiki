@@ -1,7 +1,7 @@
 # Wraith Laura - The Evil Within Asset Extractor
 Extracts models and their mega textures from `The Evil Within`
 
-## [>> Download <<](http://aviacreations.com/wraith/)
+## [>> Download <<](https://mega.nz/file/hIxwzZxA#Ve882CmnVk5vWXWka7wHSD2My5ZktHaKPliaMPGYYlg)
 
 ## Usage
 Using Wraith Laura is easy, it works by simply using `Load File` to open one of the various `.tangoresrource` files from the game. This will then load and display all models inside. When you export a model, it will export all the required textures for them in the formats you have specified in settings.
@@ -18,5 +18,3 @@ Using Wraith Laura is easy, it works by simply using `Load File` to open one of 
 Key:
 - Some features aren't necessarily coming, so they are marked TBD or 'to be determined'
 - File type exporting is just opening the file via `Load File` or `drag and drop`.
-
-Still need help? Visit the forums: [Forums](https://modme.co)

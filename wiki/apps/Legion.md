@@ -2,23 +2,23 @@
 <img src="{{ 'LegionBanner.jpg' | relative_link}}" alt="drawing" style="height: 255px; display:block;margin-bottom: 12px;"/>
 Extracts various assets from the game "Apex Legends". This software is developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
-_Download and version info:_
-
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
-
-- Download Link: [Legion (v2.24)](https://mega.nz/file/INJUULBT#SFEoFd16B7pHzeYAV8oNYFiSPHltCmS0oBb3r9p2z0Y).
-- Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
-- Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-- Currently works as of 3/9/2021 updates.
-
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
 - Show your support: [HERE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=686S5QL7Z4HKQ)
 
+## 💾 Download and version info:
+
+> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
+
+- Download Link: [Legion (v2.31)](https://mega.nz/file/8UoV2QSQ#uyCOT3nl_sZJv9SK75KYbDmM_GUX0PmgfH-TUg4f31Q).
+- Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
+- Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Currently works as of 11/6/2021 updates.
+
 ## ⚙️ Usage:
 Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
 
-- The tool features a *NEW* user interface, just open up an MBnk or RPak to extract assets using `Load File`.
+- The tool features a user interface, just open up an MBnk or RPak to extract assets using `Load File`.
 
 > **IMPORTANT:** Both the tool and the game **require** the entirety of the Win64 folder to be intact and must not be modified in any way.
 
@@ -32,6 +32,7 @@ Using Legion is fairly simple as the tool only requires the files located within
   
 ## ⚠️ Notice:
 - SE* formats (SEModel, SEAnim are preferred over any other export format and have guaranteed compatibility).
+- Legion is considered *feature* complete, and will only receive updates that improve compatibility with new seasons.
 
 ## 🖥️ Desktop Wallpaper:
 - A slick wallpaper for Legion (By @Spooky_Sal): [Download](https://mega.nz/#!1dh2yaBY!krhTFxou3eYwrl98XVnS40fvUS69wVMVm4pLd8Oo-GM)
@@ -61,3 +62,5 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 2.22 - Support for Apex S8 (Audio is no longer backwards compatible), Fix for crash involving an unsupported model format in other paks.
 - 2.23 - Add support for missing scales in animations. (Only tested in Maya, may not function properly in Blender)
 - 2.24 - Fixed crash on some models after the chaos update, PNGs have improved compatibility with legacy style importers.
+- 2.3 - Support for S11's UI Image asset, Textures in BC6 format, custom export directory paths.
+- 2.31 - Fixed a rare crash that would happen when previewing certain models. Added S11 splash screen.
