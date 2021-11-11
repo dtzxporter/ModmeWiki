@@ -10,7 +10,7 @@ Extracts various assets from the game "Apex Legends". This software is developed
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.33)](https://mega.nz/file/YIww1LzT#vb2ZKTQojlRDmNNCm1h0rM6Wav7gdAIwhpXupwY-SO4).
+- Download Link: [Legion (v2.34)](https://mega.nz/file/xYZmzZqa#yBaxOj4VlHDKd-DczJQr7DqawPXNl_V4McM8bR7JI74).
 - Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
 - Currently works as of 11/6/2021 updates.
@@ -66,3 +66,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 2.31 - Fixed a rare crash that would happen when previewing certain models. Added S11 splash screen.
 - 2.32 - Fixed certain resolution UI Image's from exporting incorrectly. Fix crash with custom export folders. Add support for embedded 'starpak' data (store rpak files).
 - 2.33 - Fixed crash on models that have blank or empty submeshes. Update to Visual Studio 2022 (Requires new runtime).
+- 2.34 - Fixed vertex weights on some models that had invalid data.
