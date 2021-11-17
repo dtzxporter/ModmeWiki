@@ -10,7 +10,7 @@ Extracts various assets from the game "Apex Legends". This software is developed
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.36)](https://mega.nz/file/ZYwXVYyT#wSdVPa1BnRj3eI83D-WxMP-Mu38AvHCmw5YCeyR6Sq0).
+- Download Link: [Legion (v2.37)](https://mega.nz/file/5QBShBgI#n99phH0hn0C337RfdQ_hbrCfTfgJX9NwupLvChFl5HI).
 - Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
 - Currently works as of 11/6/2021 updates.
@@ -69,3 +69,4 @@ Using Legion is fairly simple as the tool only requires the files located within
 - 2.34 - Fixed vertex weights on some models that had invalid data.
 - 2.35 - Fixed issue with vertex weights on some models after (2.34). Generate database linking animations with no animrig to their original models (bird, etc). These export _with_ the model now. Materials can be previewed by viewing the albedo map.
 - 2.36 - Fixed weighting issues (again). Should now export all models weighted properly.
+- 2.37 - Bug fix for crashing during some export all operations.
