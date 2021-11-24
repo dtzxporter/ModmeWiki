@@ -29,6 +29,14 @@ Using Legion is fairly simple as the tool only requires the files located within
   - Animations as [SEAnim, Cast].
 - The **.mbnk** file contains all the audio for the game:
   - Sounds as [Wav].
+- The **.bsp** files (located inside *.vpk files) contain the map geometry:
+  - Geometry as [all model formats, see above ^]
+  - Model location information as [Mprt]
+  - You must load the map's base *.rpak file first.
+
+## Command line:
+- Legion supports a single command line automation flag:
+  - `--export` "file path" Loads and exports assets based on Legion settings.
   
 ## ⚠️ Notice:
 - SE* formats (SEModel, SEAnim are preferred over any other export format and have guaranteed compatibility).
