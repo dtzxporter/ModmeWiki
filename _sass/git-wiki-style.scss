@@ -427,3 +427,13 @@ screen and (max-width: 480px) {
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
 }
+
+.tool-image {
+  margin-bottom: 4px;
+  box-sizing: border-box;
+  transition: border 1s linear;
+}
+
+.tool-image:hover {
+  border: 3px solid dodgerblue;
+}
