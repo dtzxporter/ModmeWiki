@@ -2,14 +2,8 @@
 
 Tools and applications developed by <span style="color:#CB2D36;font-weight:bold;">DTZxPorter</span>.
 
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
-<img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}">
+<a href="{{ '/wiki/apps/Legion.html' | relative_url }}"><img class="tool-image" src="{{ '/assets/images/tool_legion.png' | relative_url }}"></a>
+<a href="{{ '/wiki/apps/Vega.html' | relative_url }}"><img class="tool-image" src="{{ '/assets/images/tool_vega.png' | relative_url }}"></a>
 
 ---
 

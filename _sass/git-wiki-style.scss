@@ -430,8 +430,10 @@ screen and (max-width: 480px) {
 
 .tool-image {
   margin-bottom: 4px;
-  box-sizing: border-box;
-  transition: border 1s linear;
+  box-sizing: content-box;
+  transition: border 0.1s ease;
+  border: 3px solid transparent;
+  border-radius: 15px;
 }
 
 .tool-image:hover {
