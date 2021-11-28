@@ -1,6 +1,6 @@
 # Tools & Applications
 
-Tools and applications developed by <span style="color:#CB2D36;font-weight:bold;">DTZxPorter.</span>
+Tools and applications developed by <span style="color:#CB2D36;font-weight:bold;">DTZxPorter</span>.
 
 <img src="{{ '/assets/images/tool_legion.png' | relative_url }}">
 <img src="{{ '/assets/images/tool_legion.png' | relative_url }}">
