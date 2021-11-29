@@ -31,7 +31,7 @@ Using Legion is fairly simple as the tool only requires the files located within
   - Sounds as [Wav].
 - The **.bsp** files (located inside *.vpk files) contain the map geometry:
   - Geometry as [all model formats, see above ^]
-  - Model location information as [Mprt]
+  - See [Mprt importer (Blender)](https://github.com/llennoco22/Apex-mprt-importer-for-Blender) plugin for blender (Models / static props).
   - You must load the map's base *.rpak file first.
 
 ## Command line:
