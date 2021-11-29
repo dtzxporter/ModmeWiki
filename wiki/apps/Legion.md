@@ -30,8 +30,13 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.mbnk** file contains all the audio for the game:
   - Sounds as [Wav].
 - The **.bsp** files (located inside *.vpk files) contain the map geometry:
+  - See below:
+
+## Maps:
+Map ripping is supported but not support will be provided, YMMV.
   - Geometry as [all model formats, see above ^]
   - See [Mprt importer (Blender)](https://github.com/llennoco22/Apex-mprt-importer-for-Blender) plugin for blender (Models / static props).
+  - See <a href="{{ '/wiki/apps/Blender-Perf-Patch.html' | relative_url }}">Blender Performance Patch</a> to improve blender import performance.
   - You must load the map's base *.rpak file first.
 
 ## Command line:
