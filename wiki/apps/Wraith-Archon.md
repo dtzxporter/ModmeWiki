@@ -1,7 +1,7 @@
 # Wraith Archon - The Call of Duty Asset Extractor
 Extracts various assets from the `Call of Duty` games
 
-## [>> Download <<](http://aviacreations.com/wraith/)
+## [>> Download <<](https://mega.nz/file/sVhnFSaK#hVutzWTiUNebaeYDg_AeXy7-qMs_XShSYqSYhDD2xm4)
 
 ## Usage
 Using Wraith Archon is simple, simply find the asset type you want to extract below, and either load the game, or open the file directly with Wraith Archon. When the game is running, clicking `Load Game` will load all the available assets that are currently available. `Load File` or drag and dropping a file will allow Wraith Archon, if supported, to load the assets in the package. (See table below for more information)
