@@ -8,7 +8,7 @@ Tools and applications developed by <span style="color:#CB2D36;font-weight:bold;
 
 ---
 
-`See the Document Hierarchy below to explore.`
+`All other tools available below.`
 
 <ul>
   {% for post in site.pages %}
