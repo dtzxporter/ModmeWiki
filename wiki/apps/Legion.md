@@ -30,7 +30,7 @@ Using Legion is fairly simple as the tool only requires the files located within
 - The **.mbnk** file contains all the audio for the game:
   - Sounds as [Wav].
 - The **.bsp** files (located inside *.vpk files) contain the map geometry:
-  - See below:
+  - See `Maps` below:
 
 ## Maps:
 Map ripping is supported but not support will be provided, YMMV.
