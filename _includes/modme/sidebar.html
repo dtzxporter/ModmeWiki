@@ -24,3 +24,15 @@ Wiki:
   <li><a href="{{ '/wiki/Game-Support-_-World-at-War.html' | relative_url }}">Game Modding | World at War</a></li>
   <li><a href="{{ '/wiki/Models-and-Animation.html' | relative_url }}">Models and Animation</a></li>
 </ul>
+
+Forum Archive:
+
+<ul>
+  {% for post in site.pages %}
+    {% if post.path contains 'wiki/forums' %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
