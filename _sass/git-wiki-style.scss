@@ -439,3 +439,19 @@ screen and (max-width: 480px) {
 .tool-image:hover {
   border: 3px solid dodgerblue;
 }
+.archive-post {
+  background: #262626;
+  padding: 8px 20px;
+  border-radius: 3px;
+  border: 1px solid black;
+  border-top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.archive-user {
+  background: #262626;
+  padding: 4px 20px;
+  border-radius: 3px;
+  border: 1px solid black;
+  margin-bottom: -2px;
+}
