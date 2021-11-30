@@ -10,7 +10,7 @@ Extracts various assets from the game "Apex Legends". This software is developed
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.40)](https://mega.nz/file/IEIhyIwK#EJr1yFf7YsbYtfTtpuVGyvOu8nps2IDNvp61QcQQX-8).
+- Download Link: [Legion (v2.41)](https://mega.nz/file/JFoRmaZK#gw8sMhFtP7iFOhd4sKlVQjiHCNxU5dGR3TGkhAWOHXE).
 - Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
 - Currently works as of 11/6/2021 updates.
@@ -86,3 +86,4 @@ Map ripping is supported but not support will be provided, YMMV.
 - 2.38 - Fixed issue with mprt's rotations, added scales to mprt (v2).
 - 2.39 - Changed mprt rotation layout to match any sane person's layout (v3).
 - 2.40 - Whitelist old bsp format (some arena maps).
+- 2.41 - Added ability to load multiple (up to 4) Rpaks at once to support cross Rpak assets (New to the newer apex seasons). Will use much more memory in general.
