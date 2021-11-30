@@ -4,6 +4,7 @@ Menu:
   <li><a href="{{ '/' | relative_url }}">Home</a></li>
   <li><a href="https://discord.com/invite/Gf2hPWcUFt">Discord</a></li>
   <li><a href="{{ '/wiki/Applications.html' | relative_url }}">Tools &amp; Applications</a></li>
+  <li><a href="https://forum.modme.co">Forum Archive</a></li>
 </ul>
 
 Wiki:
@@ -23,16 +24,4 @@ Wiki:
   </li>
   <li><a href="{{ '/wiki/Game-Support-_-World-at-War.html' | relative_url }}">Game Modding | World at War</a></li>
   <li><a href="{{ '/wiki/Models-and-Animation.html' | relative_url }}">Models and Animation</a></li>
-</ul>
-
-Forum Archive:
-
-<ul>
-  {% for post in site.pages %}
-    {% if post.path contains 'wiki/forums' %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
 </ul>
