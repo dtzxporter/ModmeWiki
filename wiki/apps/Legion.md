@@ -10,10 +10,10 @@ Extracts various assets from the game "Apex Legends". This software is developed
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
 
-- Download Link: [Legion (v2.42)](https://mega.nz/file/5d5USQ4D#Q3U4WcELZ5BFbC3p_-hH6cb4bzcL7W1w-X9Ne_dOEpo).
+- Download Link: [Legion (v2.43)](https://mega.nz/file/sMBzGYTR#j2TLjuXbHrWhN2J99ZwyhEkZkCKi6_GWt-M0QIWJbrA).
 - Download Link (TF2 Supported) *NOT FOR APEX*: [Legion Legacy (v2.13)](https://mega.nz/file/4NJSyQyA#4B-XEiAOujpWsECRHsxHwT9PzL_OUY8X9Rf56JA2KYA)
 - Requires Visual Studio 2022 x64 Redist: [Redist](https://aka.ms/vs/17/release/VC_redist.x64.exe).
-- Currently works as of 11/6/2021 updates.
+- Currently works as of 12/7/2021 updates.
 
 ## ⚙️ Usage:
 Using Legion is fairly simple as the tool only requires the files located within "Apex\paks\Win64" in order to function.
@@ -88,3 +88,4 @@ Map ripping is supported but not support will be provided, YMMV.
 - 2.40 - Whitelist old bsp format (some arena maps).
 - 2.41 - Added ability to load multiple (up to 4) Rpaks at once to support cross Rpak assets (New to the newer apex seasons). Will use much more memory in general.
 - 2.42 - Fixed crash with '4' Rpaks.
+- 2.43 - Fix crash on mid season update Rpaks.
