@@ -1,13 +1,13 @@
 # Vega - The Doom Eternal Asset Extractor
 Extracts various assets from the game "Doom Eternal". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
-_Download and version info:_
+## ⬇️ Download and version info:
 
 > **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
 - Download (Windows x64): [Vega (v2.00)](https://mega.nz/file/IZhFCC6b#-GgCHmUoyaBCGJb64qVGyObg1Hu-N5gfsBqhEBdm5AU).
 - Download (Linux x64): [Vega (v2.00)](https://mega.nz/file/EYYRjDra#nQPNUGtuCCVXQSehzAn_EEvFGJiqivdxtDx4sYoLrUc).
-- Download (macOS ARM): [Vega (v2.00)](https://mega.nz/file/sA5QWZDA#eFK-ah1KpLVvb5k3BzhUiRSSRmqVULrBtkwmrC6dUXU).
+- Download (macOS ARM): [Vega (v2.00)](https://mega.nz/file/lI4HhZjb#AbFCX_Ia_I4Hd2uStRwvSN4l1vpnPhqtUQPw3BBbl-Y).
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
