@@ -3,16 +3,15 @@ Extracts various assets from the game "Doom Eternal". This software was develope
 
 _Download and version info:_
 
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located inside of the archive (EULA.txt).
+> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
 
-- Download Link: [Vega (v1.30 BETA)](https://mega.nz/file/gBZWjJSa#6IzMiA1mGkBdqUbKR2XO5arurqnZt1lHmlWTjh-F_7c).
-- Requires Visual Studio 2019 x64 Redist: [Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe).
+- Download (Windows x64): [Vega (v2.00)](https://mega.nz/file/IZhFCC6b#-GgCHmUoyaBCGJb64qVGyObg1Hu-N5gfsBqhEBdm5AU).
+- Download (Linux x64): [Vega (v2.00)](https://mega.nz/file/EYYRjDra#nQPNUGtuCCVXQSehzAn_EEvFGJiqivdxtDx4sYoLrUc).
+- Download (macOS ARM): [Vega (v2.00)](https://mega.nz/file/sA5QWZDA#eFK-ah1KpLVvb5k3BzhUiRSSRmqVULrBtkwmrC6dUXU).
 
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
 - Show your support: [HERE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=686S5QL7Z4HKQ)
-
-> **NOTICE:** The tool is in BETA, some static models need to be fixed. Animations are coming soon.
 
 ## ⚙️ Usage:
 Using Vega is fairly simple as the tool only requires the files located within "base" in order to function.
@@ -24,14 +23,10 @@ Using Vega is fairly simple as the tool only requires the files located within "
 ## Ripping:
 - The **.resource** files contain various encoded assets that Vega can export; and, as of now the currently supported assets are:
   - Textures as [Dds, Png, Tiff]
-  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya (Legacy), Kaydara FBX, Cast].
-  - Animations as [SEAnim, Cast] (Coming soon).
-  
-## ⚠️ Notice:
-- SE* formats (SEModel, SEAnim are preferred over any other export format and have guaranteed compatibility).
+  - Models as [SEModel, OBJ, XNALara, SMD, CoD XModel, Maya, Kaydara FBX, Cast].
+  - Animations as [SEAnim, Cast].
 
-## 🖥️ Desktop Wallpaper:
-- Coming Soon.
+> **NOTICE:** You should select all `_patchX` .resource files in order to export assets properly. Order doesn't matter.
 
 ## 📌 Versioning:
 - 1.00 - Initial Release (BETA).
@@ -40,3 +35,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 - 1.11 - Fixed crash on export of some assets.
 - 1.20 - Better support for static models. Added support for UV Layer 2 (Only supported in SEModel/Cast Models) for static models.
 - 1.30 - Fixed various export crashes with DLC aassets, Add support for previewing textured mode (ColorMap only).
+- 2.00 - Completely rewritten, cross platform. Fixes for various models, animations, textures failing to export, better FBX support, and more.
