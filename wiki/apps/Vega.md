@@ -1,17 +1,17 @@
 # Vega - The Doom Eternal Asset Extractor
 Extracts various assets from the game "Doom Eternal". This software was developed by [DTZxPorter](https://twitter.com/dtzxporter) & id-daemon.
 
-## ⬇️ Download and version info:
-
-> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
-
-- Download (Windows x64): [Vega (v2.00)](https://mega.nz/file/IZhFCC6b#-GgCHmUoyaBCGJb64qVGyObg1Hu-N5gfsBqhEBdm5AU).
-- Download (Linux x64): [Vega (v2.00)](https://mega.nz/file/EYYRjDra#nQPNUGtuCCVXQSehzAn_EEvFGJiqivdxtDx4sYoLrUc).
-- Download (macOS ARM): [Vega (v2.00)](https://mega.nz/file/lI4HhZjb#AbFCX_Ia_I4Hd2uStRwvSN4l1vpnPhqtUQPw3BBbl-Y).
-
 ## ❤️ Donate:
 - I take time out of my day to make this happen.
 - Show your support: [HERE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=686S5QL7Z4HKQ)
+
+## 💾 Download and version info:
+
+> **IMPORTANT:** By downloading this software you are agreeing to the **EULA** located in the `About` tab of the program.
+
+- Download (Windows x64): [Vega (v2.01)](https://mega.nz/file/oFg12IbA#E2ZE0sMz86vpOALDFXcj35Z4F-YwxNxNy1HTNvj8n6c).
+- Download (Linux x64): [Vega (v2.01)](https://mega.nz/file/5YxkSTYb#ZhfhCPI4bwthneAk4_T6SLCOWJpd68Snn_NQvUWWorA).
+- Download (macOS ARM): [Vega (v2.01)](https://mega.nz/file/YFRjwTZI#3Jm9BNJPXDfy99iuO749MleO0a_66fgPrgoS_CpMZww).
 
 ## ⚙️ Usage:
 Using Vega is fairly simple as the tool only requires the files located within "base" in order to function.
@@ -36,3 +36,4 @@ Using Vega is fairly simple as the tool only requires the files located within "
 - 1.20 - Better support for static models. Added support for UV Layer 2 (Only supported in SEModel/Cast Models) for static models.
 - 1.30 - Fixed various export crashes with DLC aassets, Add support for previewing textured mode (ColorMap only).
 - 2.00 - Completely rewritten, cross platform. Fixes for various models, animations, textures failing to export, better FBX support, and more.
+- 2.01 - Animations are properly marked as looping/additive. Fix for single channel images writing as full RGBA. Fix text overflow. Add progress text over progress bar. Add "Exporting..." status for assets.
